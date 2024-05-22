@@ -28,6 +28,8 @@ Provide clear and concise documentation for your code, including inline comments
 - Fork this repository and work on your solutions there.
 - Ensure your code is well-structured, follows best practices, and is adequately documented.
 - Submit your solutions via email, including a link to your repository.
-- You have time until <b>26 May 23:59</b> to finish this task.
+
+## Deadline
+Please submit your solution within seven days of receiving this test.
 
 Feel free to reach out if you have any questions or need clarification on any of the tasks. We're looking forward to reviewing your solutions!
